@@ -1,0 +1,198 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------------< com.wantify:wantify-server >---------------------
+[INFO] Building wantify-server 1.0.0
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.4/jackson-annotations-2.9.4.pom
+Progress (1): 2.2/2.6 kBProgress (1): 2.6 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.4/jackson-annotations-2.9.4.pom (2.6 kB at 2.2 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.4/jackson-module-afterburner-2.9.4.pom
+Progress (1): 2.1/3.3 kBProgress (1): 3.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.4/jackson-module-afterburner-2.9.4.pom (3.3 kB at 38 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.jar
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.4/jackson-annotations-2.9.4.jar
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.4/jackson-module-afterburner-2.9.4.jar
+Progress (1): 2.1/321 kBProgress (1): 4.9/321 kBProgress (1): 7.7/321 kBProgress (1): 10/321 kB Progress (1): 13/321 kBProgress (1): 16/321 kBProgress (1): 19/321 kBProgress (1): 21/321 kBProgress (2): 21/321 kB | 2.1/67 kBProgress (2): 21/321 kB | 4.9/67 kBProgress (2): 21/321 kB | 7.7/67 kBProgress (2): 24/321 kB | 7.7/67 kBProgress (3): 24/321 kB | 7.7/67 kB | 2.1/145 kBProgress (3): 24/321 kB | 10/67 kB | 2.1/145 kB Progress (3): 27/321 kB | 10/67 kB | 2.1/145 kBProgress (3): 27/321 kB | 10/67 kB | 4.9/145 kBProgress (3): 30/321 kB | 10/67 kB | 4.9/145 kBProgress (3): 30/321 kB | 10/67 kB | 7.7/145 kBProgress (3): 32/321 kB | 10/67 kB | 7.7/145 kBProgress (3): 32/321 kB | 10/67 kB | 10/145 kB Progress (3): 32/321 kB | 13/67 kB | 10/145 kBProgress (3): 32/321 kB | 16/67 kB | 10/145 kBProgress (3): 32/321 kB | 19/67 kB | 10/145 kBProgress (3): 32/321 kB | 21/67 kB | 10/145 kBProgress (3): 32/321 kB | 24/67 kB | 10/145 kBProgress (3): 32/321 kB | 24/67 kB | 13/145 kBProgress (3): 32/321 kB | 24/67 kB | 16/145 kBProgress (3): 36/321 kB | 24/67 kB | 16/145 kBProgress (3): 40/321 kB | 24/67 kB | 16/145 kBProgress (3): 44/321 kB | 24/67 kB | 16/145 kBProgress (3): 49/321 kB | 24/67 kB | 16/145 kBProgress (3): 49/321 kB | 24/67 kB | 19/145 kBProgress (3): 49/321 kB | 27/67 kB | 19/145 kBProgress (3): 49/321 kB | 27/67 kB | 21/145 kBProgress (3): 49/321 kB | 30/67 kB | 21/145 kBProgress (3): 49/321 kB | 30/67 kB | 24/145 kBProgress (3): 49/321 kB | 32/67 kB | 24/145 kBProgress (3): 49/321 kB | 32/67 kB | 27/145 kBProgress (3): 49/321 kB | 32/67 kB | 30/145 kBProgress (3): 49/321 kB | 36/67 kB | 30/145 kBProgress (3): 53/321 kB | 36/67 kB | 30/145 kBProgress (3): 53/321 kB | 40/67 kB | 30/145 kBProgress (3): 53/321 kB | 40/67 kB | 32/145 kBProgress (3): 53/321 kB | 44/67 kB | 32/145 kBProgress (3): 53/321 kB | 49/67 kB | 32/145 kBProgress (3): 57/321 kB | 49/67 kB | 32/145 kBProgress (3): 61/321 kB | 49/67 kB | 32/145 kBProgress (3): 65/321 kB | 49/67 kB | 32/145 kBProgress (3): 69/321 kB | 49/67 kB | 32/145 kBProgress (3): 73/321 kB | 49/67 kB | 32/145 kBProgress (3): 77/321 kB | 49/67 kB | 32/145 kBProgress (3): 81/321 kB | 49/67 kB | 32/145 kBProgress (3): 81/321 kB | 49/67 kB | 36/145 kBProgress (3): 81/321 kB | 53/67 kB | 36/145 kBProgress (3): 81/321 kB | 57/67 kB | 36/145 kBProgress (3): 81/321 kB | 57/67 kB | 40/145 kBProgress (3): 81/321 kB | 57/67 kB | 44/145 kBProgress (3): 81/321 kB | 57/67 kB | 49/145 kBProgress (3): 81/321 kB | 61/67 kB | 49/145 kBProgress (3): 81/321 kB | 65/67 kB | 49/145 kBProgress (3): 85/321 kB | 65/67 kB | 49/145 kBProgress (3): 85/321 kB | 67 kB | 49/145 kB   Progress (3): 89/321 kB | 67 kB | 49/145 kBProgress (3): 94/321 kB | 67 kB | 49/145 kBProgress (3): 98/321 kB | 67 kB | 49/145 kBProgress (3): 98/321 kB | 67 kB | 53/145 kBProgress (3): 98/321 kB | 67 kB | 57/145 kBProgress (3): 98/321 kB | 67 kB | 61/145 kBProgress (3): 98/321 kB | 67 kB | 65/145 kBProgress (3): 102/321 kB | 67 kB | 65/145 kBProgress (3): 106/321 kB | 67 kB | 65/145 kBProgress (3): 110/321 kB | 67 kB | 65/145 kBProgress (3): 114/321 kB | 67 kB | 65/145 kB                                            Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.4/jackson-annotations-2.9.4.jar (67 kB at 194 kB/s)
+Progress (2): 114/321 kB | 69/145 kBProgress (2): 114/321 kB | 73/145 kBProgress (2): 114/321 kB | 77/145 kBProgress (2): 114/321 kB | 81/145 kBProgress (2): 118/321 kB | 81/145 kBProgress (2): 122/321 kB | 81/145 kBProgress (2): 126/321 kB | 81/145 kBProgress (2): 130/321 kB | 81/145 kBProgress (2): 130/321 kB | 85/145 kBProgress (2): 130/321 kB | 89/145 kBProgress (2): 130/321 kB | 94/145 kBProgress (2): 130/321 kB | 98/145 kBProgress (2): 135/321 kB | 98/145 kBProgress (2): 139/321 kB | 98/145 kBProgress (2): 143/321 kB | 98/145 kBProgress (2): 147/321 kB | 98/145 kBProgress (2): 147/321 kB | 102/145 kBProgress (2): 147/321 kB | 106/145 kBProgress (2): 147/321 kB | 110/145 kBProgress (2): 147/321 kB | 114/145 kBProgress (2): 151/321 kB | 114/145 kBProgress (2): 155/321 kB | 114/145 kBProgress (2): 159/321 kB | 114/145 kBProgress (2): 163/321 kB | 114/145 kBProgress (2): 163/321 kB | 118/145 kBProgress (2): 163/321 kB | 122/145 kBProgress (2): 163/321 kB | 126/145 kBProgress (2): 163/321 kB | 130/145 kBProgress (2): 167/321 kB | 130/145 kBProgress (2): 171/321 kB | 130/145 kBProgress (2): 176/321 kB | 130/145 kBProgress (2): 180/321 kB | 130/145 kBProgress (2): 180/321 kB | 135/145 kBProgress (2): 180/321 kB | 139/145 kBProgress (2): 180/321 kB | 143/145 kBProgress (2): 180/321 kB | 145 kB    Progress (2): 184/321 kB | 145 kBProgress (2): 188/321 kB | 145 kBProgress (2): 192/321 kB | 145 kBProgress (2): 196/321 kB | 145 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.4/jackson-module-afterburner-2.9.4.jar (145 kB at 269 kB/s)
+Progress (1): 200/321 kBProgress (1): 204/321 kBProgress (1): 208/321 kBProgress (1): 212/321 kBProgress (1): 216/321 kBProgress (1): 221/321 kBProgress (1): 225/321 kBProgress (1): 229/321 kBProgress (1): 233/321 kBProgress (1): 237/321 kBProgress (1): 241/321 kBProgress (1): 245/321 kBProgress (1): 249/321 kBProgress (1): 253/321 kBProgress (1): 257/321 kBProgress (1): 262/321 kBProgress (1): 266/321 kBProgress (1): 270/321 kBProgress (1): 274/321 kBProgress (1): 278/321 kBProgress (1): 282/321 kBProgress (1): 286/321 kBProgress (1): 290/321 kBProgress (1): 294/321 kBProgress (1): 298/321 kBProgress (1): 302/321 kBProgress (1): 307/321 kBProgress (1): 311/321 kBProgress (1): 315/321 kBProgress (1): 319/321 kBProgress (1): 321 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.jar (321 kB at 457 kB/s)
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ wantify-server ---
+[INFO] com.wantify:wantify-server:jar:1.0.0
+[INFO] +- com.fasterxml.jackson.core:jackson-core:jar:2.9.4:compile
+[INFO] +- com.fasterxml.jackson.core:jackson-databind:jar:2.9.4:compile
+[INFO] +- com.fasterxml.jackson.core:jackson-annotations:jar:2.9.4:compile
+[INFO] +- com.fasterxml.jackson.module:jackson-module-afterburner:jar:2.9.4:compile
+[INFO] +- org.webjars:bootstrap:jar:3.3.4:compile
+[INFO] +- org.webjars:jquery:jar:2.1.3:compile
+[INFO] +- com.h2database:h2:jar:1.4.186:compile
+[INFO] +- io.ebean:ebean:jar:11.4.1:compile
+[INFO] |  +- io.ebean:persistence-api:jar:2.2.1:compile
+[INFO] |  +- io.ebean:ebean-annotation:jar:3.2:compile
+[INFO] |  +- org.avaje:avaje-datasource-api:jar:1.1:compile
+[INFO] |  +- org.avaje:avaje-datasource:jar:2.1.2:compile
+[INFO] |  +- org.avaje:avaje-classpath-scanner-api:jar:2.2:compile
+[INFO] |  +- org.avaje:avaje-classpath-scanner:jar:2.2.4:compile
+[INFO] |  +- io.ebean:ebean-migration:jar:11.1.1:compile
+[INFO] |  +- org.slf4j:slf4j-api:jar:1.7.25:compile (version selected from constraint [1.7.1,1.7.99))
+[INFO] |  \- org.antlr:antlr4-runtime:jar:4.6:compile
+[INFO] +- io.ebean:ebean-agent:jar:11.4.1:provided
+[INFO] +- com.jensfendler:ninja-ebean-ng-module:jar:0.0.1:compile
+[INFO] |  \- org.avaje.ebeanorm:avaje-ebeanorm:jar:7.20.1:compile
+[INFO] |     +- org.jetbrains:annotations:jar:13.0:compile
+[INFO] |     \- org.avaje:avaje-dbmigration:jar:1.2.1:compile
+[INFO] +- javax.persistence:persistence-api:jar:1.0.2:compile
+[INFO] +- org.ninjaframework:ninja-standalone:jar:6.2.2:compile
+[INFO] |  +- org.ninjaframework:ninja-servlet:jar:6.2.2:compile
+[INFO] |  |  +- org.ninjaframework:ninja-websockets-jsr356:jar:6.2.2:compile
+[INFO] |  |  \- com.google.inject.extensions:guice-servlet:jar:4.1.0:compile
+[INFO] |  +- org.eclipse.jetty:jetty-server:jar:9.3.15.v20161220:compile
+[INFO] |  |  +- org.eclipse.jetty:jetty-http:jar:9.3.15.v20161220:compile
+[INFO] |  |  \- org.eclipse.jetty:jetty-io:jar:9.3.15.v20161220:compile
+[INFO] |  +- org.eclipse.jetty:jetty-servlet:jar:9.3.15.v20161220:compile
+[INFO] |  |  \- org.eclipse.jetty:jetty-security:jar:9.3.15.v20161220:compile
+[INFO] |  +- org.eclipse.jetty:jetty-xml:jar:9.3.15.v20161220:compile
+[INFO] |  |  \- org.eclipse.jetty:jetty-util:jar:9.3.15.v20161220:compile
+[INFO] |  +- org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.3.15.v20161220:compile
+[INFO] |  |  +- org.eclipse.jetty:jetty-annotations:jar:9.3.15.v20161220:compile
+[INFO] |  |  |  +- org.eclipse.jetty:jetty-plus:jar:9.3.15.v20161220:compile
+[INFO] |  |  |  |  \- org.eclipse.jetty:jetty-jndi:jar:9.3.15.v20161220:compile
+[INFO] |  |  |  +- org.eclipse.jetty:jetty-webapp:jar:9.3.15.v20161220:compile
+[INFO] |  |  |  +- javax.annotation:javax.annotation-api:jar:1.2:compile
+[INFO] |  |  |  +- org.ow2.asm:asm:jar:5.0.1:compile
+[INFO] |  |  |  \- org.ow2.asm:asm-commons:jar:5.0.1:compile
+[INFO] |  |  +- org.eclipse.jetty.websocket:javax-websocket-client-impl:jar:9.3.15.v20161220:compile
+[INFO] |  |  \- org.eclipse.jetty.websocket:websocket-server:jar:9.3.15.v20161220:compile
+[INFO] |  |     \- org.eclipse.jetty.websocket:websocket-servlet:jar:9.3.15.v20161220:compile
+[INFO] |  +- javax.servlet:javax.servlet-api:jar:3.1.0:compile
+[INFO] |  \- javax.websocket:javax.websocket-api:jar:1.1:compile
+[INFO] +- org.ninjaframework:ninja-test-utilities:jar:6.2.2:test
+[INFO] |  +- org.ninjaframework:ninja-core:jar:6.2.2:compile
+[INFO] |  |  +- org.ocpsoft.prettytime:prettytime:jar:4.0.1.Final:compile
+[INFO] |  |  +- joda-time:joda-time:jar:2.9.4:compile
+[INFO] |  |  +- com.google.inject:guice:jar:4.1.0:compile
+[INFO] |  |  |  +- javax.inject:javax.inject:jar:1:compile
+[INFO] |  |  |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  |  +- com.google.inject.extensions:guice-assistedinject:jar:4.1.0:compile
+[INFO] |  |  +- org.freemarker:freemarker-gae:jar:2.3.23:compile
+[INFO] |  |  +- commons-codec:commons-codec:jar:1.10:compile
+[INFO] |  |  +- ch.qos.logback:logback-classic:jar:1.1.3:compile
+[INFO] |  |  |  \- ch.qos.logback:logback-core:jar:1.1.3:compile
+[INFO] |  |  +- org.slf4j:jcl-over-slf4j:jar:1.7.21:compile
+[INFO] |  |  +- org.slf4j:log4j-over-slf4j:jar:1.7.21:compile
+[INFO] |  |  +- org.apache.commons:commons-email:jar:1.4:compile
+[INFO] |  |  |  \- com.sun.mail:javax.mail:jar:1.5.2:compile
+[INFO] |  |  +- commons-configuration:commons-configuration:jar:1.10:compile
+[INFO] |  |  +- commons-fileupload:commons-fileupload:jar:1.3.2:compile
+[INFO] |  |  +- org.hibernate:hibernate-validator:jar:4.3.1.Final:compile
+[INFO] |  |  |  \- javax.validation:validation-api:jar:1.0.0.GA:compile
+[INFO] |  |  +- com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.8.1:compile
+[INFO] |  |  |  \- org.codehaus.woodstox:stax2-api:jar:3.1.4:compile
+[INFO] |  |  +- com.fasterxml.woodstox:woodstox-core:jar:5.0.3:compile
+[INFO] |  |  +- net.sf.ehcache:ehcache-core:jar:2.6.11:compile
+[INFO] |  |  +- net.spy:spymemcached:jar:2.11.6:compile
+[INFO] |  |  +- org.flywaydb:flyway-core:jar:4.0.3:compile
+[INFO] |  |  +- com.google.inject.extensions:guice-persist:jar:4.1.0:compile
+[INFO] |  |  +- org.hibernate:hibernate-entitymanager:jar:4.3.8.Final:compile
+[INFO] |  |  |  +- org.jboss.logging:jboss-logging-annotations:jar:1.2.0.Beta1:compile
+[INFO] |  |  |  +- org.hibernate:hibernate-core:jar:4.3.8.Final:compile
+[INFO] |  |  |  |  +- antlr:antlr:jar:2.7.7:compile
+[INFO] |  |  |  |  \- org.jboss:jandex:jar:1.1.0.Final:compile
+[INFO] |  |  |  +- dom4j:dom4j:jar:1.6.1:compile
+[INFO] |  |  |  +- org.hibernate.common:hibernate-commons-annotations:jar:4.0.5.Final:compile
+[INFO] |  |  |  +- org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final:compile
+[INFO] |  |  |  +- org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.0.Final:compile
+[INFO] |  |  |  \- org.javassist:javassist:jar:3.18.1-GA:compile
+[INFO] |  |  +- org.hibernate:hibernate-c3p0:jar:4.3.8.Final:compile
+[INFO] |  |  |  +- org.jboss.logging:jboss-logging:jar:3.1.3.GA:compile
+[INFO] |  |  |  \- com.mchange:c3p0:jar:0.9.2.1:compile
+[INFO] |  |  |     \- com.mchange:mchange-commons-java:jar:0.2.3.4:compile
+[INFO] |  |  \- com.google.inject.extensions:guice-multibindings:jar:4.1.0:compile
+[INFO] |  +- org.hamcrest:java-hamcrest:jar:2.0.0.0:test
+[INFO] |  +- junit:junit:jar:4.12:test
+[INFO] |  |  \- org.hamcrest:hamcrest-core:jar:1.3:test
+[INFO] |  +- org.mockito:mockito-core:jar:1.10.19:test
+[INFO] |  |  \- org.objenesis:objenesis:jar:2.1:test
+[INFO] |  +- org.fluentlenium:fluentlenium-junit:jar:3.2.0:test
+[INFO] |  |  \- org.fluentlenium:fluentlenium-core:jar:3.2.0:test
+[INFO] |  |     +- org.seleniumhq.selenium:selenium-remote-driver:jar:3.3.1:test
+[INFO] |  |     |  +- cglib:cglib-nodep:jar:3.2.4:test
+[INFO] |  |     |  \- net.java.dev.jna:jna-platform:jar:4.1.0:test
+[INFO] |  |     |     \- net.java.dev.jna:jna:jar:4.1.0:test
+[INFO] |  |     \- org.atteo.classindex:classindex:jar:3.4:test
+[INFO] |  +- org.seleniumhq.selenium:htmlunit-driver:jar:2.26:test
+[INFO] |  |  +- org.seleniumhq.selenium:selenium-api:jar:3.11.0:test (version selected from constraint [3.3.1,4.0.0))
+[INFO] |  |  +- org.seleniumhq.selenium:selenium-support:jar:3.11.0:test (version selected from constraint [3.3.1,4.0.0))
+[INFO] |  |  |  +- net.bytebuddy:byte-buddy:jar:1.7.9:test
+[INFO] |  |  |  +- org.apache.commons:commons-exec:jar:1.3:test
+[INFO] |  |  |  +- com.squareup.okhttp3:okhttp:jar:3.9.1:test
+[INFO] |  |  |  \- com.squareup.okio:okio:jar:1.13.0:test
+[INFO] |  |  \- net.sourceforge.htmlunit:htmlunit:jar:2.26:test
+[INFO] |  |     +- xalan:xalan:jar:2.7.2:test
+[INFO] |  |     |  \- xalan:serializer:jar:2.7.2:test
+[INFO] |  |     +- net.sourceforge.htmlunit:htmlunit-core-js:jar:2.26:test
+[INFO] |  |     +- net.sourceforge.htmlunit:neko-htmlunit:jar:2.25:test
+[INFO] |  |     |  \- xerces:xercesImpl:jar:2.11.0:test
+[INFO] |  |     |     \- xml-apis:xml-apis:jar:1.4.01:test
+[INFO] |  |     \- net.sourceforge.cssparser:cssparser:jar:0.9.22:test
+[INFO] |  |        \- org.w3c.css:sac:jar:1.3:test
+[INFO] |  +- org.eclipse.jetty:jetty-client:jar:9.3.15.v20161220:test
+[INFO] |  +- org.eclipse.jetty.websocket:websocket-client:jar:9.3.15.v20161220:compile
+[INFO] |  |  \- org.eclipse.jetty.websocket:websocket-common:jar:9.3.15.v20161220:compile
+[INFO] |  |     \- org.eclipse.jetty.websocket:websocket-api:jar:9.3.15.v20161220:compile
+[INFO] |  +- org.apache.httpcomponents:httpclient:jar:4.5.2:test
+[INFO] |  +- org.apache.httpcomponents:httpmime:jar:4.4:test
+[INFO] |  +- org.doctester:doctester-core:jar:1.1.6:test
+[INFO] |  \- com.devbliss.doctest:doctest:jar:0.9.1:test
+[INFO] |     +- com.google.code.gson:gson:jar:2.2.2:test
+[INFO] |     +- de.devbliss.apitester:apitester:jar:0.8.0:test
+[INFO] |     |  \- com.fasterxml:jackson-xml-databind:jar:0.6.2:test
+[INFO] |     |     +- org.codehaus.jackson:jackson-mapper-asl:jar:1.9.2:test
+[INFO] |     |     |  \- org.codehaus.jackson:jackson-core-asl:jar:1.9.2:test
+[INFO] |     |     \- org.codehaus.jackson:jackson-xc:jar:1.9.2:test
+[INFO] |     +- org.json:org.json:jar:chargebee-1.0:test
+[INFO] |     \- javax.activation:activation:jar:1.1.1:compile
+[INFO] +- com.fizzed:ninja-rocker-module:jar:0.16.0:compile
+[INFO] +- com.fizzed:rocker-runtime:jar:0.16.0:compile
+[INFO] +- com.fizzed:rocker-compiler:jar:0.16.0:compile
+[INFO] |  \- org.apache.commons:commons-lang3:jar:3.3.2:compile
+[INFO] +- org.postgresql:postgresql:jar:9.4.1212:compile
+[INFO] \- com.spotify:docker-client:jar:8.11.2:test
+[INFO]    +- com.google.guava:guava:jar:20.0:compile
+[INFO]    +- com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.4:test
+[INFO]    |  +- com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.9.4:test
+[INFO]    |  \- com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.4:compile
+[INFO]    +- com.fasterxml.jackson.datatype:jackson-datatype-guava:jar:2.9.4:test
+[INFO]    +- org.glassfish.jersey.core:jersey-client:jar:2.22.2:test
+[INFO]    |  +- javax.ws.rs:javax.ws.rs-api:jar:2.0.1:test
+[INFO]    |  +- org.glassfish.jersey.core:jersey-common:jar:2.22.2:test
+[INFO]    |  |  +- org.glassfish.jersey.bundles.repackaged:jersey-guava:jar:2.22.2:test
+[INFO]    |  |  \- org.glassfish.hk2:osgi-resource-locator:jar:1.0.1:test
+[INFO]    |  +- org.glassfish.hk2:hk2-api:jar:2.4.0-b34:test
+[INFO]    |  |  +- org.glassfish.hk2:hk2-utils:jar:2.4.0-b34:test
+[INFO]    |  |  \- org.glassfish.hk2.external:aopalliance-repackaged:jar:2.4.0-b34:test
+[INFO]    |  +- org.glassfish.hk2.external:javax.inject:jar:2.4.0-b34:test
+[INFO]    |  \- org.glassfish.hk2:hk2-locator:jar:2.4.0-b34:test
+[INFO]    +- org.glassfish.jersey.connectors:jersey-apache-connector:jar:2.22.2:test
+[INFO]    +- org.glassfish.jersey.media:jersey-media-json-jackson:jar:2.22.2:test
+[INFO]    |  \- org.glassfish.jersey.ext:jersey-entity-filtering:jar:2.22.2:test
+[INFO]    +- org.apache.commons:commons-compress:jar:1.9:test
+[INFO]    +- commons-io:commons-io:jar:2.5:compile
+[INFO]    +- org.apache.httpcomponents:httpcore:jar:4.4.5:test
+[INFO]    +- com.github.jnr:jnr-unixsocket:jar:0.18:test
+[INFO]    |  +- com.github.jnr:jnr-ffi:jar:2.1.4:test
+[INFO]    |  |  +- com.github.jnr:jffi:jar:1.2.15:test
+[INFO]    |  |  +- com.github.jnr:jffi:jar:native:1.2.15:test
+[INFO]    |  |  +- org.ow2.asm:asm-analysis:jar:5.0.3:test
+[INFO]    |  |  +- org.ow2.asm:asm-tree:jar:5.0.3:compile
+[INFO]    |  |  +- org.ow2.asm:asm-util:jar:5.0.3:test
+[INFO]    |  |  \- com.github.jnr:jnr-x86asm:jar:1.0.2:test
+[INFO]    |  +- com.github.jnr:jnr-constants:jar:0.9.8:test
+[INFO]    |  +- com.github.jnr:jnr-enxio:jar:0.16:test
+[INFO]    |  \- com.github.jnr:jnr-posix:jar:3.0.35:test
+[INFO]    +- commons-lang:commons-lang:jar:2.6:compile
+[INFO]    \- org.bouncycastle:bcpkix-jdk15on:jar:1.59:test
+[INFO]       \- org.bouncycastle:bcprov-jdk15on:jar:1.59:test
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 8.818 s
+[INFO] Finished at: 2018-03-30T10:06:16-04:00
+[INFO] ------------------------------------------------------------------------
